@@ -1,0 +1,17 @@
+pandas
+streamlit
+nltk
+st-pages
+streamlit-extras
+gensim
+wordcloud
+plotly
+matplotlib
+dotenv
+scipy
+scikit-learn
+statsmodels
+transformers
+streamlit-chat
+google-generativeai
+numpy
